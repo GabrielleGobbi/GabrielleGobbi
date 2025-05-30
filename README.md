@@ -57,12 +57,6 @@ Atuo como desenvolvedora Full Stack em formação, com experiência em inclusão
 
 ---
 
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabriellegobbi/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gessicagabriellegobbi@hotmail.com)
-
----
 
 <p align="center">
   <img src="https://github.com/GabrielleGobbi/GabrielleGobbi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
