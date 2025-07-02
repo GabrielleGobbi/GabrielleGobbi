@@ -64,9 +64,4 @@ Sou **usuária ativa de IA** no dia a dia, tanto para automatizar tarefas quanto
 - 🎓 Voluntária em projetos de **educação digital, cultura e inclusão**
 - 🧠 Usuária ativa de **ferramentas de inteligência artificial** para estudo, criação e automação
 
----
 
-
-<p align="center">
-  <img src="https://github.com/GabrielleGobbi/GabrielleGobbi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
