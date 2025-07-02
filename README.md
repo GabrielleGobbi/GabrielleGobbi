@@ -1,9 +1,7 @@
 <h1 align="center">Olá, eu sou a Gabrielle Gobbi 👩‍💻🎨</h1>
 <h3 align="center">Full Stack Developer | 3D & Digital Artist | Creative Educator | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Tecnologia+para+todas+as+pessoas+💡;Criatividade+que+vira+código+🎨;Desenvolvedora+Full+Stack+em+evolução+🚀;Automação%2C+IA+e+Inclusão+Digital+🌍" alt="Typing animation" />
-</p>
+
 
 ---
 
